@@ -1,0 +1,1 @@
+This project contains automated API tests for the FakeStore API using RestAssured, TestNG, and Java. The purpose of this project is to validate product endpoints and ensure the API responds correctly.
